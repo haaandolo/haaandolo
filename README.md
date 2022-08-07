@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric Lee
+- 👋 Hi, I’m haaandolo
 - 👀 I’m interested in data science, computer science and math/statistics
 
 <!---
