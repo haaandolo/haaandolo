@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Eric
 - 👀 I’m interested in data science, computer science and math/statistics
 
 <!---
